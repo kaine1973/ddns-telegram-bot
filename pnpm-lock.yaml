@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 8
 
 specifiers:
   '@vercel/node': ^1.12.1
